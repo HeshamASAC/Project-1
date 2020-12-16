@@ -1,6 +1,6 @@
-var Name=prompt("username");
+varName=prompt("username");
 
-var pass=prompt("password?");
+varpass=prompt("password?");
 
 alert("Done By: Hesham Mashriqi");
 

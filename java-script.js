@@ -36,8 +36,8 @@
 
 
 
- var name = prompt("What is your name?");
- var pass = prompt("What is your password?");
+ var name = prompt("user name");
+ var pass = prompt("password");
 
 checkPassword(pass);
 
